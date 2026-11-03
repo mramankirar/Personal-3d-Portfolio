@@ -15,7 +15,8 @@ Built with plain HTML, CSS and JavaScript — nothing to install, nothing to bui
 [**Live Demo**](https://mramankirar.github.io/YOUR-REPO-NAME/) &nbsp;|&nbsp; [**Download CV**](pdf/Aman_Dhakar_CV.pdf) &nbsp;|&nbsp; [**Report an Issue**](../../issues)
  
 <br>
-<img src="<img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/a7ebcf45-3cd1-4b4a-8382-761f66a4b097" />
+<img src=<img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/acb39224-b840-4b39-888a-8471ba573451" />
+
 ">
 </div>
 <br>
