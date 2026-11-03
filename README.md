@@ -125,7 +125,7 @@ Visit **http://localhost:8080** in your browser. That's it.
 <details>
 <summary><b>Contact</b></summary>
 <br>
-<img width="1440" height="900" alt="about" src="https://github.com/user-attachments/assets/d71fd40d-229a-4a49-8d98-295844c61138" />
+<img width="1440" height="900" alt="contact" src="https://github.com/user-attachments/assets/f7314283-4516-41a9-9ecc-1610ecac23cf" />
 </details>
 <details>
 <summary><b>Mobile</b></summary>
