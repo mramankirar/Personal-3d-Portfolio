@@ -91,7 +91,8 @@ Visit **http://localhost:8080** in your browser. That's it.
 <br>
 | Light | Dark |
 |:---:|:---:|
-| <img src="screenshots/hero.png" alt="Home, light theme"> | <img src="screenshots/hero-dark.png" alt="Home, dark theme"> |
+| <img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/917391f6-8a0f-425d-92a8-385fa6ae392b" />
+| <img width="1440" height="900" alt="hero-dark" src="https://github.com/user-attachments/assets/9c34cf44-82fc-499b-a378-8986547442f6" />|
  
 </details>
 <details>
