@@ -313,7 +313,6 @@ B.Tech Computer Science & Engineering, Institute of Technology & Management, Gwa
 <div align="center">
 <sub>If you find this project useful, please consider giving it a star.</sub>
  
-</div>
 
 
 ###  Thanks for visiting my portfolio!
