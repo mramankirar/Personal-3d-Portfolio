@@ -12,7 +12,7 @@ Built with plain HTML, CSS and JavaScript — nothing to install, nothing to bui
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-3D5BFF?style=flat-square)
 ![Theme](https://img.shields.io/badge/Theme-Light%20%7C%20Dark-0B0B14?style=flat-square)
  
-[**Live Demo**](https://mramankirar.github.io/YOUR-REPO-NAME/) &nbsp;|&nbsp; [**Download CV**](pdf/Aman_Dhakar_CV.pdf) &nbsp;|&nbsp; [**Report an Issue**](../../issues)
+[**Live Demo**](https://mramankirar.github.io/Personal-3d-Portfolio/) &nbsp;|&nbsp; [**Download CV**](pdf/Aman_Dhakar_CV.pdf) &nbsp;|&nbsp; [**Report an Issue**](../../issues)
  
 <br>
 <img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/472e70a7-93b8-43be-9b26-66e2998aed9e" />
