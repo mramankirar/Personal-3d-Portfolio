@@ -100,7 +100,8 @@ Visit **http://localhost:8080** in your browser. That's it.
 <br>
 | About | Skills |
 |:---:|:---:|
-| <img src="screenshots/about.png" alt="About section"> | <img src="screenshots/skills.png" alt="Skills section"> |
+| <img width="1440" height="900" alt="about" src="https://github.com/user-attachments/assets/b6fa5baa-3f0b-4a62-97fc-236abf112728" />|
+| <img width="1440" height="900" alt="skills" src="https://github.com/user-attachments/assets/27743ccc-49d6-484f-a920-852b4aeff1c9" />|
  
 </details>
 <details>
@@ -108,7 +109,8 @@ Visit **http://localhost:8080** in your browser. That's it.
 <br>
 | Projects | Experience |
 |:---:|:---:|
-| <img src="screenshots/projects.png" alt="Projects section"> | <img src="screenshots/experience.png" alt="Experience section"> |
+| <img width="1440" height="900" alt="projects" src="https://github.com/user-attachments/assets/ba479786-16de-4a38-b5f3-153ef1c1c1f4" />
+| <img width="1440" height="900" alt="experience" src="https://github.com/user-attachments/assets/1bcac065-68f4-4f96-964e-c7c28ec5ee4c" />|
  
 </details>
 <details>
@@ -116,19 +118,20 @@ Visit **http://localhost:8080** in your browser. That's it.
 <br>
 | Credentials | Journey |
 |:---:|:---:|
-| <img src="screenshots/credentials.png" alt="Credentials section"> | <img src="screenshots/journey.png" alt="Journey timeline"> |
+| <img width="1440" height="900" alt="credentials" src="https://github.com/user-attachments/assets/e6b32b2c-ae4d-49f6-b6f3-a0af98e0991c" />
+| <img width="1440" height="900" alt="journey" src="https://github.com/user-attachments/assets/dd1f83f9-ccc7-4b07-8c6a-d49bdf4eabe5" />|
  
 </details>
 <details>
 <summary><b>Contact</b></summary>
 <br>
-<img src="screenshots/contact.png" alt="Contact section" width="100%">
+<img width="1440" height="900" alt="about" src="https://github.com/user-attachments/assets/d71fd40d-229a-4a49-8d98-295844c61138" />
 </details>
 <details>
 <summary><b>Mobile</b></summary>
 <br>
 <div align="center">
-  <img src="screenshots/mobile.png" alt="Mobile layout" width="260">
+  <img width="585" height="1266" alt="mobile" src="https://github.com/user-attachments/assets/f3cb4aed-4973-4e52-9b49-f44d25e49b3c" />
 </div>
 </details>
 ---
@@ -311,3 +314,11 @@ B.Tech Computer Science & Engineering, Institute of Technology & Management, Gwa
 <sub>If you find this project useful, please consider giving it a star.</sub>
  
 </div>
+
+
+###  Thanks for visiting my portfolio!
+
+**Made with ❤️ by Aman**
+
+</div>
+
